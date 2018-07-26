@@ -33,4 +33,8 @@ sysinfo.txt
 
 # Builds
 *.apk
+AssetBundles
 *.unitypackage
+
+#Rider
+.idea
